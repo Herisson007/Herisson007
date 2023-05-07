@@ -7,10 +7,6 @@
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
-<!-- 🎯 Meu passatempo é desenvolver me como uma pessoa capacitada todos os dias. -->
-
-- 🎮 Prefiro jogos interativos.
-
 #
 
  <div style="display: inline_block" align="center">
