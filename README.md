@@ -14,8 +14,6 @@
   <li> Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.</li>
 </ul>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=herisson007)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=herisson007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Estatisticas:</h2>
