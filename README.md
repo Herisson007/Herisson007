@@ -4,8 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <h2>ABOUTE ME</h2>
-<div align="justify">
+
  <ul> 
  <li> Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
   <li> Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.</li>
@@ -14,7 +16,7 @@
   <li> Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.</li>
   <li> Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.</li>
 </ul>  
-</div>
+
 
 
 <h2>Graficos de ativdades</h2>
@@ -34,7 +36,7 @@
 </div>
  
 <h2>Meus contatos:</h2>
-<div>
+<div align="center">
   
   <a href="https://www.instagram.com/heris_roger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
