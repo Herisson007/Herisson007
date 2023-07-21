@@ -1,8 +1,5 @@
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Herisson+Roger!;Seja+bem-vindo(a)+ao+meu+Perfil+👨‍💻!;)](https://git.io/typing-svg)
-
 ### Sobre mim:
 
 - 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!
@@ -41,8 +38,12 @@
 
 <!--<img src="https://komarev.com/ghpvc/?username=herisson007&color=blueviolet&label=👀" alt="herisson007" />-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020576&height=120&section=header"/>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Herisson+Roger!;Seja+bem-vindo(a)+ao+meu+Perfil+👨‍💻!;)](https://git.io/typing-svg)
+
 <h2>Me Chamo Jefferson Felipe,e sou um Desenvolvedor autodidata e louco pela tecnologia!</h2>
 <ul> 
   <li> Atualmente busco uma oportunidade na área, seja estágio, seja junior, e seja Front-End, ou seja Back-End, e o que for necessário para conseguir, farei.</li>
