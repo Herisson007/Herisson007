@@ -1,5 +1,5 @@
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 <img src="https://komarev.com/ghpvc/?username=herisson007&color=blueviolet&label=👀" alt="herisson007" />-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
