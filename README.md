@@ -1,12 +1,4 @@
 
-
-### Sobre mim:
-
-
-
-
-#
-
  <div style="display: inline_block" align="center">
   <a href="https://github.com/herisson007">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=40"/>
@@ -36,29 +28,21 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Herisson+Roger!;Seja+bem-vindo(a)+ao+meu+Perfil+👨‍💻!;)](https://git.io/typing-svg)
-
-<h2>Me Chamo Jefferson Felipe,e sou um Desenvolvedor autodidata e louco pela tecnologia!</h2>
- - 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!
-- ⚜️ Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.
-- ⚜️ Front-End Development para aplicações mobile e web.
-- ⚜️ Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.
-- ⚜️ Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.
-- ⚜️Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.
-
+<h2>ABOUTE ME</h2>
 <ul> 
-
-  <li> 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
-  <li>⚜️ Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.</li>
-  <li>⚜️ Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.</li>
-  <li>Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.</li>
-    <li>⚜️Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.</li>
+ <li> Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
+  <li> Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.</li>
+  <li> Front-End Development para aplicações mobile e web..</li>
+  <li> Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.</li>
+  <li> Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.</li>
+  <li> Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.</li>
 </ul>  
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=020576&&size=35&center=true&vCenter=true&width=1000&lines=Olah!;Tenho+20+Anos;Sou+Analista+e+Desenvolvedor+de+Software;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=020576&&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;TENHO+19+ANOS;SOU+ANALISTA+E+DESENVOLVEDOR+DE+SOFTWARE;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jefferson-Felipy&bg_color=020576&color=ffffff&line=b13583&point=ffff99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Herisson-Roger&bg_color=020576&color=ffffff&line=b13583&point=ffff99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Estatisticas:</h2>
 <div align="center">  
