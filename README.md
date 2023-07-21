@@ -27,12 +27,8 @@
 
 <h2>Minhas Skills:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,typescript,mysql,mongodb,git,github,vscode"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react-native,mysql,mongodb,git,github,vscode"></img>
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,typescript,mysql,mongodb,git,github,vscode,figma"></img>
-</div>
-  
  
 <h2>Meus contatos:</h2>
 <div align="center">
