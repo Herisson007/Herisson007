@@ -2,12 +2,7 @@
 
 ### Sobre mim:
 
-- 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!
-- ⚜️ Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.
-- ⚜️ Front-End Development para aplicações mobile e web.
-- ⚜️Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.
-- ⚜️ Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.
-- ⚜️Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.
+
 
 
 #
@@ -46,6 +41,13 @@
 
 <h2>Me Chamo Jefferson Felipe,e sou um Desenvolvedor autodidata e louco pela tecnologia!</h2>
 <ul> 
+ - 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!
+- ⚜️ Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.
+- ⚜️ Front-End Development para aplicações mobile e web.
+- ⚜️Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.
+- ⚜️ Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.
+- ⚜️Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.
+ 
   <li> Atualmente busco uma oportunidade na área, seja estágio, seja junior, e seja Front-End, ou seja Back-End, e o que for necessário para conseguir, farei.</li>
   <li>Busco novas experiencias na área, novos desafios, adoro resolução de problemas, aquilo que me faz pensar qual a melhor forma de chegar em uma conclusão certa.</li>
   <li>Tenho conhecimento avançado em Javascript,Nodejs, Sass/Css - Html/Bootstap, banco de dados não relacional MongoDB, conhecimentos básicos no banco de dados relacinal Mysql, e conhecimentos básicos e java com orientação a objetos.</li>
