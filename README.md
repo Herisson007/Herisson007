@@ -27,7 +27,7 @@
 
 <h2>Minhas Skills:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,adobexd,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
 <h2>Meus contatos:</h2>
