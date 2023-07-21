@@ -2,9 +2,6 @@
 
 <!--<img src="https://komarev.com/ghpvc/?username=herisson007&color=blueviolet&label=👀" alt="herisson007" />-->
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
 <h2>ABOUTE ME</h2>
