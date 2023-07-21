@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/seu-usuário-aqui/herisson007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/herisson007/herisson007/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <h2>ABOUTE ME</h2>
 
