@@ -5,12 +5,12 @@
 
 ### Sobre mim:
 
-- sou um estudante dedicado à área de análise e desenvolvimento de sistemas
-- Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.
-- Front-End Development para aplicações mobile e web
-- Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.
-- Neste momento, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.
-- Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.
+- 👻 Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!
+- ⚜️ Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.
+- ⚜️ Front-End Development para aplicações mobile e web.
+- ⚜️Tenho um nível iniciante em JS, CSS e HTML, e utilizo o Figma para criar wireframes e protótipos dos meus projetos.
+- ⚜️ Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.
+- ⚜️Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.
 
 
 #
