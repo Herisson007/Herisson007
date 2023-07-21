@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
 <h2>ABOUTE ME</h2>
-<ul> 
+<div align="justify">
+ <ul> 
  <li> Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
   <li> Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.</li>
   <li> Front-End Development para aplicações mobile e web..</li>
@@ -13,6 +14,8 @@
   <li> Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas, encontrando-me no 4º período.</li>
   <li> Tenho um interesse especial pela parte visual e de interação do usuário, e meu objetivo é me tornar um profissional conhecido por oferecer soluções intuitivas e satisfatórias para os usuários finais. Através do estudo contínuo e da prática em projetos reais, espero me especializar em minha área de maior vazão.</li>
 </ul>  
+</div>
+
 
 <h2>Graficos de ativdades</h2>
 
