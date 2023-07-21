@@ -29,6 +29,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,typescript,mysql,mongodb,git,github,vscode"></img>
 </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,typescript,mysql,mongodb,git,github,vscode,figma"></img>
+</div>
   
  
 <h2>Meus contatos:</h2>
