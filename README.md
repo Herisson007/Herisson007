@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
 <h2>ABOUTE ME</h2>
-<div align="center">
+<div align="justify">
  <ul> 
  <li> Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
   <li> Atualmente, estou focado em estudar e aprimorar minhas habilidades em UI/UX Design.</li>
