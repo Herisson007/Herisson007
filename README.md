@@ -29,7 +29,7 @@
  
 <h2>Contate-ME:</h2>
 <div align="center">
-  <table>
+  <table border-collapse: collapse>
     <tr>
       <td style="padding: 5px;">
         <a href="https://www.instagram.com/heris_roger/" target="_blank">
