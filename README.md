@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=HELLO+👋,+MY+NAME++IS+HERISSON+ROGER!;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL+👨‍💻!;)](https://git.io/typing-svg)
 
-<h2>ABOUTE ME</h2>
+<h2>Sobre mim:</h2>
 
  <ul> 
  <li> Sou um estudante dedicado à área de análise e desenvolvimento de sistemas!!!</li>
@@ -21,7 +21,7 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=220" />
 </a>
 
-<h2>Tecnologias que tenho conhecimentos</h2>
+<h2>Tecnologias que tenho conhecimentos:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
