@@ -15,17 +15,17 @@
 
 <h2>Estatisticas:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_red" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Herisson007&show_icons=true&theme=shadow_red" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+<h2>TECNOLOGIAS QUE TENHO CONHECIMENTOS</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
-<h2>Contate-ME:</h2>
+<h2>CONTATE-ME:</h2>
 <div align="center">
   <table>
     <tr>
