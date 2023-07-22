@@ -27,18 +27,6 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
-<style>
-  /* Remover bordas da tabela */
-  table {
-    border-collapse: collapse;
-  }
-
-  /* Remover bordas dos botões de contato */
-  td {
-    border: none;
-  }
-</style>
-
 <div align="center">
   <table>
     <tr>
