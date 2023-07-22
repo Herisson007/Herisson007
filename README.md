@@ -18,7 +18,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Herisson007&show_icons=true&theme=shadow_red" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=230" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=180" />
 </a>
 <h2>Tecnologias que tenho conhecimentos</h2>
 <div align="center">
