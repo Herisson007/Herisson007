@@ -18,7 +18,7 @@
   <table style="width: 100%;">
     <tr>
       <td style="width: 50%; text-align: center;">
-        <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Herisson Roger github stats" /> 
+        <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Herisson Roger github stats" /> 
       </td>
       <td style="width: 50%; text-align: center;">
         <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herisson007&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
