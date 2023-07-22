@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
+<h2>Contate-ME:</h2>
 <div align="center">
   <table>
     <tr>
