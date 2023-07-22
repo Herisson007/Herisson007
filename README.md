@@ -27,7 +27,18 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
-<h2>Meus contatos:</h2>
+<style>
+  /* Remover bordas da tabela */
+  table {
+    border-collapse: collapse;
+  }
+
+  /* Remover bordas dos botões de contato */
+  td {
+    border: none;
+  }
+</style>
+
 <div align="center">
   <table>
     <tr>
@@ -59,3 +70,4 @@
     </tr>
   </table>
 </div>
+
