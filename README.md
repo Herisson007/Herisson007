@@ -16,7 +16,7 @@
 <h2>Estatisticas:</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herisson007)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_red)
 <div align="center">
         <img  src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Herisson Roger github stats" /> 
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=herisson007&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
