@@ -24,10 +24,10 @@
 <h2>Principais Repositorios:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=90 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=90 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120" />
 </a>
 
 
