@@ -14,10 +14,17 @@
 </ul>  
 
 <h2>Estatisticas:</h2>
-<div align="center">
-        <img  src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Herisson Roger github stats" /> 
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=herisson007&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<style>
+  .github-stats-img {
+    border: 2px solid #ff91a4;
+    border-radius: 5px;
+    margin: 10px;
+  }
+</style>
 
+<div align="center">
+  <img class="github-stats-img" src="https://github-readme-stats.vercel.app/api?username=herisson007&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Herisson Roger github stats" /> 
+  <img class="github-stats-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herisson007&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
