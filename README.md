@@ -21,12 +21,23 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=220" />
 </a>
 
-<h2>Tecnologias que tenho conhecimentos:</h2>
+<h2>Principais Repositorios:</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+<h2>Principais Tecnologias que tenho conhecimentos:</h2>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,dart,java,nodejs,react,flutter,mysql,mongodb,git,github,vscode"></img>
 </div>
  
-<h2>Contate-me:</h2>
+<h2>Principais meios de contato: </h2>
 <div align="center">
   <table>
     <tr>
