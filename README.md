@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007" />
 </a>
 
 
