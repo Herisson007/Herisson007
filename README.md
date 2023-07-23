@@ -22,9 +22,9 @@
 </div>
 <h2>Principais Repositorios:</h2>
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120&show_icons=true&theme=shadow_red" />
+  <img height=123 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120&show_icons=true&theme=shadow_red" />
 
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120&show_icons=true&theme=shadow_red" />
+  <img height=123 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120&show_icons=true&theme=shadow_red" />
 </div>
 
 <h2>Principais Tecnologias que tenho conhecimentos:</h2>
