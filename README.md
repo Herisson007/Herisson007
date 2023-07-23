@@ -15,16 +15,16 @@
 
 <h2>Estatisticas:</h2>
 
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Herisson007&show_icons=true&theme=shadow_red" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Herisson007&show_icons=true&theme=shadow_red" />
 
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=220" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=220" />
 
 
 <h2>Principais Repositorios:</h2>
 
-  <img height=123 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120&show_icons=true&theme=shadow_red" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Converso-decimal-portugol&card_width=120&show_icons=true&theme=shadow_red" />
 
-  <img height=123 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120&show_icons=true&theme=shadow_red" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herisson007&repo=Herisson007&card_width=120&show_icons=true&theme=shadow_red" />
 
 <h2>Principais Tecnologias que tenho conhecimentos:</h2>
 
