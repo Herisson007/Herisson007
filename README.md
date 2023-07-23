@@ -17,9 +17,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Herisson007&show_icons=true&theme=shadow_red" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Herisson007&show_icons=true&theme=shadow_red&layout=compact&langs_count=8&card_width=220" />
-</a>
+
 
 <h2>Principais Repositorios:</h2>
 
